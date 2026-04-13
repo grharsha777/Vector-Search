@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.env
+.env.*
+.venv/
+venv/
+venv*/
+.Python
+env/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.sqlite
+*.db
+*.pkl
+*.pickle
+*.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.DS_Store
+# Notebook outputs
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Editor folders
+.vscode/
+.idea/
+
+# Packaging
+dist/
+build/
+*.egg-info/
+
+# Optional: lock files
+poetry.lock
+package-lock.json
+
+# local index
+index.joblib
